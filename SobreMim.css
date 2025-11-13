@@ -1,0 +1,20 @@
+.texto-principal{
+    font-size: 80px;
+    font-weight: 700;
+    color:rgb(0, 217, 255);
+
+}
+.TextoSimpres{
+
+   font-size: 20px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+
+}
+  
+ img {
+  max-width: 300px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+}
